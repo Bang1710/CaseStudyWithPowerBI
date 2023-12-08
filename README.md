@@ -74,9 +74,9 @@ The churn rate, also known as the rate of attrition or customer churn, is the ra
 + Reducing churn is a priority for many companies
 
 ### V. Insights discovered so far
-#### 1. The churn rate for Databel is ~27%.
-#### 2. ~45% of the reasons why customers churn is related to competitors.
-#### 3. The churn rate in California is abnormally high (>60%).
++ The churn rate for Databel is ~27%.
++ ~45% of the reasons why customers churn is related to competitors.
++ The churn rate in California is abnormally high (>60%).
 
 ## 📝 B. HR Analytics in Power BI
 ### I. Case Study Description
@@ -162,14 +162,14 @@ We’ll finalize the case study by making design changes to our report that prov
 + Secondary goal: Understand what factors impact attrition
 
 ### IV. Key insights uncovered
-#### 1. Atlas Labs has employed over 1,470 people.
-#### 2. Atlas Labs currently employs over 1,200 people.
-#### 3. The largest department by far is Technology.
-#### 4. The attrition rate for employees leaving the organization is 16%
-#### 5. Majority of employees are between 20-29 years old.
-#### 6. Currently, Atlas Labs employ 2.7% more women than men.
-#### 7. Non-binary make up 8.5% of total employees.
-#### 8. White have the highest average salary
-#### 9. 'Mixed or multiple ethnic groups' have one of the lowest average salaries.
++ Atlas Labs has employed over 1,470 people.
++ Atlas Labs currently employs over 1,200 people.
++ The largest department by far is Technology.
++ The attrition rate for employees leaving the organization is 16%
++ Majority of employees are between 20-29 years old.
++ Currently, Atlas Labs employ 2.7% more women than men.
++ Non-binary make up 8.5% of total employees.
++ White have the highest average salary
++ 'Mixed or multiple ethnic groups' have one of the lowest average salaries.
 
 
